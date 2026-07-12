@@ -1,6 +1,5 @@
-# sql-sales-data-analysis
-Sales data analysis using SQL with business insights and queries .
 # SQL Sales Data Analysis
+Sales data analysis using SQL with business insights and queries .
 
 ## 📌 Project Overview
 This project analyzes sales data using SQL to answer real-world business questions.
